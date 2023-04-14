@@ -18,5 +18,5 @@
 <a href="https://discord.gg/cE83fAQd5W" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cE83fAQd5W" height="30" width="40" /></a>
 </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zashiraa&show_icons=true&locale=en" alt="zashiraa" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zashiraa&show_icons=true&locale=en" alt="zashiraa" /></p>
 
