@@ -1,5 +1,4 @@
 <h1 align="center">🌙 Zashira</h1>
-<h3 align="center">Python/JavaScript Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zashiraa&label=Profile%20views&color=0e75b6&style=flat" alt="zashiraa" /> </p>
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/984614990910722049.png" alt="discord" /> </p>
