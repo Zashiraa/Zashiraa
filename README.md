@@ -20,4 +20,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zashiraa&show_icons=true&locale=en" alt="zashiraa" /></p>
+<p alignt="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zashiraa&show_icons=true&locale=en" alt="zashiraa" /></p>
